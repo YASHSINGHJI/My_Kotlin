@@ -11,4 +11,5 @@ fun main()
     val flag:Boolean = true
     val char:Char = 'A'
     val str:String = "Hello"
+    var num1:Int=10
 }
